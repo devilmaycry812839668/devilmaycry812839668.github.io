@@ -1,4 +1,4 @@
-**个人GitHub博客目前已停止维护，现在主要进行维护的博客地址为：**
+**个人GitHub博客目前已停止维护，现在进行维护的博客地址为：**
 
 <https://www.cnblogs.com/xyz>
 
@@ -8,7 +8,7 @@
 
 
 
-![](./README.assets/修图版-2023年10月18日（辽大东门照相馆）.jpg)
+<img src="./README.assets/修图版-2023年10月18日（辽大东门照相馆）.jpg" style="zoom:50%;" />
 
 
 
@@ -21,14 +21,14 @@
 Web of Science（WOS）主页：
 
 主页地址：
-https://www.webofscience.com/wos/author/record/LBH-3534-2024
+<https://www.webofscience.com/wos/author/record/LBH-3534-2024>
 
 <br/>
 
 谷歌学术（Google Scholar）主页：
 
 主页地址：
-https://scholar.google.co.kr/citations?user=jHvm-VAAAAAJ&hl=en
+<https://scholar.google.co.kr/citations?user=jHvm-VAAAAAJ&hl=en>
 
 
 
