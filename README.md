@@ -1,4 +1,4 @@
-个人GitHub博客目前已停止维护，现在主要进行维护的博客地址为：
+**个人GitHub博客目前已停止维护，现在主要进行维护的博客地址为：**
 
 <https://www.cnblogs.com/xyz>
 
@@ -16,9 +16,7 @@
 
 <br/>
 
-下面给出个人的学术主页地址：
-
-
+**下面给出个人的学术主页地址：**
 
 Web of Science（WOS）主页：
 
@@ -28,6 +26,7 @@ https://www.webofscience.com/wos/author/record/LBH-3534-2024
 <br/>
 
 谷歌学术（Google Scholar）主页：
+
 主页地址：
 https://scholar.google.co.kr/citations?user=jHvm-VAAAAAJ&hl=en
 
@@ -55,7 +54,7 @@ https://gitee.com/devilmaycry812839668
 
 <br/>
 
-下面给出本人的网络收款地址，有支持个人工作的网友可以通过下面方式给予一定的物质支持：
+**下面给出本人的网络收款地址，有支持个人工作的网友可以通过下面方式给予一定的物质支持：**
 
 <br/>
 
