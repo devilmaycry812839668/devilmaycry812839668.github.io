@@ -40,9 +40,9 @@ Web of Science（WOS）主页：
 
 由于受中美贸易战等事件影响，GitHub已不再安全，为此本人在GitHub上的仓库代码已不再进行维护，并逐步迁移回国内的相关服务商，成功迁移的代码仓库会在迁移完成后在GitHub上进行删库操作；个人目前主要维护的代码仓库地址为：
 
-https://openi.pcl.ac.cn/devilmaycry812839668
+<https://openi.pcl.ac.cn/devilmaycry812839668>
 
-https://gitee.com/devilmaycry812839668
+<https://gitee.com/devilmaycry812839668>
 
 
 
